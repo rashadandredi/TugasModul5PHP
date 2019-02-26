@@ -1,0 +1,13 @@
+# TugasModul5PHP
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/11.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/12.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/21.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/22.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/41.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/42.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/43.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/44.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/praktikum11.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/praktikum12.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/praktikum21.PNG)
+![alt text](https://github.com/rashadandredi/TugasModul5PHP/blob/master/hasil/praktikum22.PNG)
